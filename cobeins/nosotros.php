@@ -100,7 +100,7 @@
                 </div>
                 <div class="row">
                     <!-- Start featured -->
-                    <div class="col-lg-5 col-md-12 col-xs-12">
+                    <div class="col-lg-5 col-md-12 col-xs-12 text-justify">
                         <p class="text-box">Empresa de Investigadores Privados y Seguridad Privada con experiencia, y servicios de alta calidad, prestigio y profesionalismo probado durante los 28 años de trabajo; para empresas y personas que requieren y necesitan recopilar pruebas y esclarecer la verdad, debidamente autorizada por los organismos de control. Incluyendo Superintendencia de Compañias, Ministerio de Defensa y del Interior. Servicios especiales a nivel nacional e internacional.</p>
 
                     </div>

@@ -231,14 +231,14 @@
         <section class="call-action section_alert">
             <div class="container">
                 <div class="row justify-content-center">
-                    <div class="col-10">
+                    <div class="col-lg-10 col-md-12 col-sm-12 col-xs-12">
                         <div class="cta-trial text-center">
                             <h3><strong>¡CUIDADO!</strong></h3>
                             <p><strong>No se deje engañar por suspuestas compañías fantasmas, tampoco acepte acuerdos vía celular, peor reuniones clandestinas para desembolsos. Verifique identidades y oficinas legales. Visite personalmente.</strong> </p>
 
                         </div>
                     </div>
-                    <div class="col-2">
+                    <div class="col-lg-2 col-md-12 col-sm-12 col-xs-12">
                         <div class="cta-trial text-center">
                             <h3></h3>
                             <i class="fa fa-exclamation-triangle" aria-hidden="true"></i>
@@ -329,8 +329,8 @@
                     </div>
                     <!-- End featured -->
                     <div class="col-lg-6 col-md-12 col-xs-12 float-right">
-                        <div class="video_style">
-                            <video id="play"src="assets/videos/paginasWeb.mp4" style="border: 1px solid #a6a6a6;" width="630" height="355" preload controls>
+                        <div class="video_style text-center">
+                            <video id="play"src="assets/videos/paginasWeb.mp4" width="630" height="355" preload controls>
                             </video>
                         </div>  
                     </div>
@@ -393,7 +393,7 @@
                     </div>
                     <!-- End featured -->
                     <div class="col-lg-6 col-md-12 col-xs-12">
-                        <div class="video_style">
+                        <div class="video_style text-center">
 
                             <img src="assets/img/porque_elegirnos/confidencialidad-y-seguridad.png">
 
@@ -504,6 +504,9 @@
 
         <!-- Counter Section Start -->
         <div class="counters section bg-defult">
+            <div class="section-header">          
+                <h2 class="section-title">Indicadores de Gestión</h2>
+            </div>
             <div class="container">
                 <div class="row"> 
                     <div class="col-sm-6 col-md-6 col-lg-3">

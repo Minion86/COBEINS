@@ -1844,6 +1844,25 @@ button:focus {
         padding: 10px 0;
     }
 
+    .owl-pagination {
+        bottom: 10px;
+    }
+
+
+    .video_style video{
+        height: 250px !important;
+        width: auto !important;
+        padding-bottom: 0px;
+        padding-top: 10px;
+    }
+
+    .video_style img{
+        height: 250px !important;
+        width: auto !important;
+        padding-bottom: 0px;
+        padding-top: 10px;
+    }
+
 }
 
 @media (min-width: 993px) {
@@ -1943,6 +1962,23 @@ button:focus {
     .elegirnos_img{
         height:350px;
         width: auto;
+    }
+
+    .owl-pagination {
+        bottom: -40px;
+    }
+
+
+    .video_style video{
+        height:350px !important; 
+        width:580px !important;
+        padding-bottom: 0px;
+    }
+
+    .video_style img{
+        height:350px !important; 
+        width:auto !important;
+        padding-bottom: 0px;
     }
 
 }
@@ -2847,7 +2883,7 @@ footer .menu li a:hover {
     }
 }
 
-#callnowbutton {display:none;} @media screen and (max-width:650px){#callnowbutton {display:block; position:fixed; text-decoration:none; z-index:2147483647;width:65px; height:65px; border-radius:50%; border-top:1px solid #ff532d; bottom:15px; box-shadow: 0 1px 2px rgba(0, 0, 0, 0.4);transform: scale(0.7);left:20px;background:url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgNjAgNjAiPjxwYXRoIGQ9Ik03LjEwNCAxNC4wMzJsMTUuNTg2IDEuOTg0YzAgMC0wLjAxOSAwLjUgMCAwLjk1M2MwLjAyOSAwLjc1Ni0wLjI2IDEuNTM0LTAuODA5IDIuMSBsLTQuNzQgNC43NDJjMi4zNjEgMy4zIDE2LjUgMTcuNCAxOS44IDE5LjhsMTYuODEzIDEuMTQxYzAgMCAwIDAuNCAwIDEuMSBjLTAuMDAyIDAuNDc5LTAuMTc2IDAuOTUzLTAuNTQ5IDEuMzI3bC02LjUwNCA2LjUwNWMwIDAtMTEuMjYxIDAuOTg4LTI1LjkyNS0xMy42NzRDNi4xMTcgMjUuMyA3LjEgMTQgNy4xIDE0IiBmaWxsPSIjYjYwMDAwIi8+PHBhdGggZD0iTTcuMTA0IDEzLjAzMmw2LjUwNC02LjUwNWMwLjg5Ni0wLjg5NSAyLjMzNC0wLjY3OCAzLjEgMC4zNWw1LjU2MyA3LjggYzAuNzM4IDEgMC41IDIuNTMxLTAuMzYgMy40MjZsLTQuNzQgNC43NDJjMi4zNjEgMy4zIDUuMyA2LjkgOS4xIDEwLjY5OWMzLjg0MiAzLjggNy40IDYuNyAxMC43IDkuMSBsNC43NC00Ljc0MmMwLjg5Ny0wLjg5NSAyLjQ3MS0xLjAyNiAzLjQ5OC0wLjI4OWw3LjY0NiA1LjQ1NWMxLjAyNSAwLjcgMS4zIDIuMiAwLjQgMy4xMDVsLTYuNTA0IDYuNSBjMCAwLTExLjI2MiAwLjk4OC0yNS45MjUtMTMuNjc0QzYuMTE3IDI0LjMgNy4xIDEzIDcuMSAxMyIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg==) center/50px 50px no-repeat #e82600;}}#callnowbutton .NoButtonText{display:none;}
+#callnowbutton {display:none;} @media screen and (max-width:650px){#callnowbutton {display:block; position:fixed; text-decoration:none; z-index:2147483647;width:65px; height:65px; border-radius:50%; border-top:1px solid #0000ff; bottom:15px; box-shadow: 0 1px 2px rgba(0, 0, 0, 0.4);transform: scale(0.7);left:20px;background:url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgNjAgNjAiPjxwYXRoIGQ9Ik03LjEwNCAxNC4wMzJsMTUuNTg2IDEuOTg0YzAgMC0wLjAxOSAwLjUgMCAwLjk1M2MwLjAyOSAwLjc1Ni0wLjI2IDEuNTM0LTAuODA5IDIuMSBsLTQuNzQgNC43NDJjMi4zNjEgMy4zIDE2LjUgMTcuNCAxOS44IDE5LjhsMTYuODEzIDEuMTQxYzAgMCAwIDAuNCAwIDEuMSBjLTAuMDAyIDAuNDc5LTAuMTc2IDAuOTUzLTAuNTQ5IDEuMzI3bC02LjUwNCA2LjUwNWMwIDAtMTEuMjYxIDAuOTg4LTI1LjkyNS0xMy42NzRDNi4xMTcgMjUuMyA3LjEgMTQgNy4xIDE0IiBmaWxsPSIjYjYwMDAwIi8+PHBhdGggZD0iTTcuMTA0IDEzLjAzMmw2LjUwNC02LjUwNWMwLjg5Ni0wLjg5NSAyLjMzNC0wLjY3OCAzLjEgMC4zNWw1LjU2MyA3LjggYzAuNzM4IDEgMC41IDIuNTMxLTAuMzYgMy40MjZsLTQuNzQgNC43NDJjMi4zNjEgMy4zIDUuMyA2LjkgOS4xIDEwLjY5OWMzLjg0MiAzLjggNy40IDYuNyAxMC43IDkuMSBsNC43NC00Ljc0MmMwLjg5Ny0wLjg5NSAyLjQ3MS0xLjAyNiAzLjQ5OC0wLjI4OWw3LjY0NiA1LjQ1NWMxLjAyNSAwLjcgMS4zIDIuMiAwLjQgMy4xMDVsLTYuNTA0IDYuNSBjMCAwLTExLjI2MiAwLjk4OC0yNS45MjUtMTMuNjc0QzYuMTE3IDI0LjMgNy4xIDEzIDcuMSAxMyIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg==) center/50px 50px no-repeat #0000cc;}}#callnowbutton .NoButtonText{display:none;}
 /*#whatsappbutton {display:block; position:fixed; text-decoration:none; z-index:2147483647;width:65px; height:65px; border-radius:50%; border-top:1px solid #ff532d; bottom:15px; box-shadow: 0 1px 2px rgba(0, 0, 0, 0.4);transform: scale(0.7);right:20px;}};*/
 
 .info-box {
@@ -2910,14 +2946,3 @@ footer .menu li a:hover {
     padding-right: 5px !important;
 }
 
-.video_style video{
-    height:350px !important; 
-    width:580px !important;
-    padding-bottom: 0px;
-}
-
-.video_style img{
-    height:350px !important; 
-    width:auto !important;
-    padding-bottom: 0px;
-}
