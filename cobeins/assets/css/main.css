@@ -1850,15 +1850,15 @@ button:focus {
 
 
     .video_style video{
-        height: 180px !important;
-        width: auto !important;
+        height: auto !important;
+        width: 330px !important;
         padding-bottom: 0px;
         padding-top: 10px;
     }
 
     .video_style img{
-        height: 180px !important;
-        width: auto !important;
+        height: auto !important;
+        width: 330px !important;
         padding-bottom: 0px;
         padding-top: 10px;
     }
