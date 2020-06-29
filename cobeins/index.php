@@ -330,7 +330,7 @@
                     <!-- End featured -->
                     <div class="col-lg-6 col-md-12 col-xs-12 float-right">
                         <div class="video_style text-center">
-                            <video id="play"src="assets/videos/paginasWeb.mp4" width="630" height="355" preload controls>
+                            <video id="play"src="assets/videos/Secuencia01.mp4" width="630" height="355"  preload="none" controls>
                             </video>
                         </div>  
                     </div>
@@ -526,7 +526,7 @@
                                 <i class="lni-coffee-cup"></i>
                             </div>                
                             <div class="fact-count">
-                                <h3><span class="counter">700</span></h3>
+                                <h3><span class="counter">20.000</span>+</h3>
                                 <h4>Casos Resueltos</h4>
                             </div>
                         </div>

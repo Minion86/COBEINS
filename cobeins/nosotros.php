@@ -267,7 +267,7 @@
                         <div class="col-md-12">
                             <div class="site-info float-left">
                                 <p>Copyright ©  <a href="https://marketingdigitalquito.com/" style="color:white;" target="_blank">
-                                        Digital Script. 2019-2020</a></p>
+                                        Digital Script. <script>document.write(new Date().getFullYear());</script></a></p>
                             </div>              
                         </div>
                     </div>
