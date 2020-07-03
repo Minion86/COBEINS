@@ -1015,6 +1015,24 @@ button:focus {
     letter-spacing: 1px;
 }
 
+.seguridad .container{
+    background: #2F4930;
+}
+
+.seguridad .cta-trial h3 {
+    font-size: 28px;
+    font-weight: 500;
+    margin-bottom: 28px;
+    letter-spacing: 1px;
+}
+
+.seguridad .cta-trial p {
+    margin-bottom: 20px;
+    color: #fff;
+}
+
+
+
 /* ==========================================================================
  Video promo Style
  ========================================================================== */
@@ -1862,6 +1880,11 @@ button:focus {
         padding-bottom: 0px;
         padding-top: 10px;
     }
+    
+    .seguridad .cta-trial img {
+    width:330px;
+    height:auto;
+}
 
 }
 
@@ -1980,6 +2003,11 @@ button:focus {
         width:auto !important;
         padding-bottom: 0px;
     }
+    
+    .seguridad .cta-trial img {
+    width:auto;
+    height:250px;
+}
 
 }
 

@@ -204,7 +204,7 @@
             <section class="footer-Content">
                 <div class="container">
                     <div class="row">
-                        <div class="col-lg-2 col-md-6 col-sm-6 col-xs-6 col-mb-12  text-center">
+                        <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6 col-mb-12  text-center">
                             <a class="navbar-brand" href="index.php"><img id="logo-footer" src="assets/img/logo2.png" alt="Cobeins"/></a>
                             <div class="textwidget">
                             </div>
@@ -212,7 +212,7 @@
                                 <li><a class="facebook" href="https://www.facebook.com/cobeins.investigadoresprivados"><i class="fa fa-facebook-square" aria-hidden="true"></i></a></li>
                             </ul> 
                         </div>
-                        <div class="col-lg-2 col-md-6 col-sm-6 col-xs-6 col-mb-12  text-center">
+                        <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6 col-mb-12  text-center">
                             <div class="widget">
                                 <h3 class="block-title"><strong>MENÚ</strong></h3>
                                 <ul class="menu">
@@ -222,7 +222,7 @@
                                 </ul>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-6 col-sm-6 col-xs-6 col-mb-12  text-center">
+                        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 col-mb-12  text-center">
                             <div class="widget">
                                 <h3 class="block-title"><strong>CONTÁCTANOS</strong></h3>
                                 <ul class="contact-footer">
@@ -238,10 +238,8 @@
                                 </ul> 
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-6 col-sm-6 col-xs-6 col-mb-12  text-center">
-                            <div class="widget"> <img id="mapa" src="assets/img/mapa/lupa.webp" alt="Cobeins"/>
-                            </div></div>
                     </div>
+                </div>
 
                 </div>
             </section>
@@ -254,7 +252,7 @@
                     <div class="row">
                         <div class="col-md-12">
                             <div class="site-info float-left">
-                                <p>Copyright ©  <a href="https://marketingdigitalquito.com/" style="color:white;" target="_blank">
+                                <p>Copyright ©  <a href="https://paginaswebdinamicas.com/" style="color:white;" target="_blank">
                                         Digital Script. <script>document.write(new Date().getFullYear());</script></a></p>
                             </div>              
                         </div>

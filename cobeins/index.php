@@ -24,6 +24,7 @@
         <meta name="twitter:image" content="http://www.detectivesquitoecuador.com/wp-content/uploads/2017/01/cobeins-acuerdo-min.jpg" />
 
         <!-- Bootstrap CSS -->
+        <link rel="preload" href="assets/css/bootstrap.min.css" as="style">
         <link rel="stylesheet" href="assets/css/bootstrap.min.css">
         <link rel="stylesheet" href="assets/css/owl.carousel.css">
         <!--        <link rel="stylesheet" href="assets/css/owl.theme.css">
@@ -33,6 +34,7 @@
         <link rel="stylesheet" href="assets/css/menu_sideslide.css">
         <link rel="stylesheet" href="assets/css/whatsappme.min.css">
         <link rel="stylesheet" href="assets/vendors/sweetalert/sweetalert2.css">
+        <link rel="preload" href="assets/css/main.css" as="style">
         <link rel="stylesheet" href="assets/css/main.css">    
         <link rel="stylesheet" href="assets/css/responsive.css">
 
@@ -250,6 +252,21 @@
             </div>
         </section>
         <!-- Mensaje End -->
+        
+         <!-- Mensaje Seguridad Start -->
+        <section class="seguridad section_alert">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                        <div class="cta-trial text-center">
+                            <p><strong>Servicios con todos los protocolos de bioseguridad contra el COVID-19.</strong> </p>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- Mensaje Seguridad End -->
 
         <!-- Partners Section Start --> 
         <section class="section">
@@ -663,8 +680,8 @@
                                 </ul> 
                             </div>
                         </div>
-                       </div>
                     </div>
+                </div>
 
                 </div>
             </section>
@@ -677,7 +694,7 @@
                     <div class="row">
                         <div class="col-md-12">
                             <div class="site-info float-left">
-                                <p>Copyright ©  <a href="https://marketingdigitalquito.com/" style="color:white;" target="_blank">
+                                <p>Copyright ©  <a href="https://paginaswebdinamicas.com/" style="color:white;" target="_blank">
                                         Digital Script. <script>document.write(new Date().getFullYear());</script></a></p>
                             </div>              
                         </div>
@@ -696,8 +713,8 @@
 
         <div id="loader">
             <div class="spinner">
-                <div class="double-bounce1"></div>
-                <div class="double-bounce2"></div>
+                <div class="double-bounce1 text-center"><img width="30" height="30" src="assets/img/detective.png"/></div>
+                <div class="double-bounce2 text-center"><img width="30" height="30" src="assets/img/detective.png"/></div>
             </div>
         </div>    
 

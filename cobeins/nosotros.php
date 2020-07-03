@@ -101,7 +101,7 @@
                 <div class="row">
                     <!-- Start featured -->
                     <div class="col-lg-5 col-md-12 col-xs-12 text-justify">
-                        <p class="text-box">Empresa de Investigadores Privados y Seguridad Privada con experiencia, y servicios de alta calidad, prestigio y profesionalismo probado durante los 28 años de trabajo; para empresas y personas que requieren y necesitan recopilar pruebas y esclarecer la verdad, debidamente autorizada por los organismos de control. Incluyendo Superintendencia de Compañias, Ministerio de Defensa y del Interior. Servicios especiales a nivel nacional e internacional.</p>
+                        <p class="text-box">Empresa de Investigadores Privados y Seguridad Privada con experiencia, y servicios de alta calidad, prestigio y profesionalismo probado durante los 35 años de trabajo; para empresas y personas que requieren y necesitan recopilar pruebas y esclarecer la verdad, debidamente autorizada por los organismos de control. Incluyendo Superintendencia de Compañias, Ministerio de Defensa y del Interior. Servicios especiales a nivel nacional e internacional.</p>
 
                     </div>
                     <!-- End featured -->
@@ -216,7 +216,7 @@
             <section class="footer-Content">
                 <div class="container">
                     <div class="row">
-                        <div class="col-lg-2 col-md-6 col-sm-6 col-xs-6 col-mb-12  text-center">
+                        <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6 col-mb-12  text-center">
                             <a class="navbar-brand" href="index.php"><img id="logo-footer" src="assets/img/logo2.png" alt="Cobeins"/></a>
                             <div class="textwidget">
                             </div>
@@ -224,7 +224,7 @@
                                 <li><a class="facebook" href="https://www.facebook.com/cobeins.investigadoresprivados"><i class="fa fa-facebook-square" aria-hidden="true"></i></a></li>
                             </ul> 
                         </div>
-                        <div class="col-lg-2 col-md-6 col-sm-6 col-xs-6 col-mb-12  text-center">
+                        <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6 col-mb-12  text-center">
                             <div class="widget">
                                 <h3 class="block-title"><strong>MENÚ</strong></h3>
                                 <ul class="menu">
@@ -234,7 +234,7 @@
                                 </ul>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-6 col-sm-6 col-xs-6 col-mb-12  text-center">
+                        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 col-mb-12  text-center">
                             <div class="widget">
                                 <h3 class="block-title"><strong>CONTÁCTANOS</strong></h3>
                                 <ul class="contact-footer">
@@ -250,10 +250,8 @@
                                 </ul> 
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-6 col-sm-6 col-xs-6 col-mb-12  text-center">
-                            <div class="widget"> <img id="mapa" src="assets/img/mapa/lupa.webp" alt="Cobeins"/>
-                            </div></div>
                     </div>
+                </div>
 
                 </div>
             </section>
@@ -266,7 +264,7 @@
                     <div class="row">
                         <div class="col-md-12">
                             <div class="site-info float-left">
-                                <p>Copyright ©  <a href="https://marketingdigitalquito.com/" style="color:white;" target="_blank">
+                                <p>Copyright ©  <a href="https://paginaswebdinamicas.com/" style="color:white;" target="_blank">
                                         Digital Script. <script>document.write(new Date().getFullYear());</script></a></p>
                             </div>              
                         </div>
